@@ -18,6 +18,7 @@ header {
 }
 
 nav {
+  min-height: 50px;
   padding: 5px 30px;
   display: flex;
   justify-content: space-between;
